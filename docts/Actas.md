@@ -23,3 +23,33 @@ Desarrollar un programa de consola en Python que permita gestionar las funciones
 *	________________________________________
 
 
+
+# ACTA DE COLABORACION
+## **Proyecto**: Sistema de Gestión, Cinema La Pantalla Mágica 
+Fecha: 12/09/2025
+### Integrantes:
+*  Estudiante 1: Sofia Vallejo Martinez 
+*  Estudiante 2: Maria José Molina López 
+*  Estudiante 3: Daniel Santiago Martínez Daza 
+### Normas de trabajo en equipo
+* Comunicarse por los distintos canales de comunicación:
+>* WhatsApp para coordinación rápida.
+>*	Correo institucional para enviar avances formales.
+>*	GitHub para la gestión del código.
+*  Acordar de frecuencia de reuniones:
+>*	Una reunión semanal (virtual o presencial).
+>*	Reuniones extraordinarias en caso de bloqueos técnicos o cercanía a entregas.
+* Acordar	metodología de trabajo:
+>*	Uso de Visual Studio Code como editor principal.
+>*	Cada integrante trabaja en GitHub 
+* Crear un medio de	resolución de conflictos:
+>*	Conversación directa y respetuosa entre los implicados.
+>*	Discusión en grupo buscando consenso.
+>*	Si no hay acuerdo, se eleva la situación al docente para mediación.
+### Compromiso firmado por:
+*	________________________________________
+*	________________________________________
+*	________________________________________
+
+
+
