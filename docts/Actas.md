@@ -24,6 +24,8 @@ Desarrollar un programa de consola en Python que permita gestionar las funciones
 
 
 
+
+
 # ACTA DE COLABORACION
 ## **Proyecto**: Sistema de Gestión, Cinema La Pantalla Mágica 
 Fecha: 12/09/2025
@@ -52,4 +54,33 @@ Fecha: 12/09/2025
 *	________________________________________
 
 
+
+
+
+
+# ACTA DE RESPONSABILIDAD:
+## **Proyecto**: Sistema de Gestión, Cinema La Pantalla Mágica 
+Fecha: 26/09/2025
+### Integrantes:
+*  Estudiante 1: Sofia Vallejo Martinez 
+*  Estudiante 2: Maria José Molina López 
+*  Estudiante 3: Daniel Santiago Martínez Daza
+ ### Distribución de tareas
+* Estudiante 1: Sofia Vallejo Martinez  
+>* Diseño de clases principales: Cinema, Función, Cliente, Reserva.
+>* Implementación de la lógica de creación, consulta y edición de funciones.
+* Estudiante 2: Maria José Molina López 
+>* Desarrollo de la interfaz de consola con menús interactivos y validaciones de datos.
+>* Conexión entre las clases y el menú principal.
+* Estudiante 3: Daniel Santiago Martínez Daza 
+>* Implementación de la exportación de datos a archivo de texto en formato abierto.
+>* Redacción del manual de uso básico y documentación interna del código.
+### Plazos de entrega
+* Primer prototipo en GitHub: 10/10/2025
+* Revisión grupal: 10/11/2025
+* Entrega final: 30/11/2025
+### Compromiso firmado por:
+*	________________________________________
+*	________________________________________
+*	________________________________________
 
