@@ -3,7 +3,6 @@ El software **La Pantalla Mágica** es un programa de consola desarrollado en Py
 
 Permitirá a los usuarios **registrarse, consultar disponibilidad de películas y asientos, realizar y cancelar reservas, generar facturas y reportes administrativos**, brindando una experiencia sencilla y eficiente tanto para el público universitario como para la comunidad externa.
 
-El sistema se apoyará en programación orientada a objetos y permitirá exportar resultados en archivos planos (CSV) para mantener registros de manera ordenada.
 ---
 ### Integrantes:
 *  Sofia Vallejo Martinez
