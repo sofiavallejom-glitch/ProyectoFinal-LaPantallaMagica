@@ -81,6 +81,11 @@ Entre mis habilidades destaco mi capacidad de liderazgo, la buena comunicación,
 6. **Entrega:** Publicación en GitHub con repositorio organizado.
 
 ---
+## Cronograma del Proyecto 
+* Diagrama de Gantt
+<img height="200px" src="90116446-67b1-42d4-ad75-c6706609c82d.jpg">
+
+---
 ## Presupuesto del Proyecto
 
 * **Equipo:** 3 estudiantes
