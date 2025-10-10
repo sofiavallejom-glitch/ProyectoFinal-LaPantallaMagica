@@ -4,6 +4,12 @@ El software **La Pantalla Mágica** es un programa de consola desarrollado en Py
 Permitirá a los usuarios **registrarse, consultar disponibilidad de películas y asientos, realizar y cancelar reservas, generar facturas y reportes administrativos**, brindando una experiencia sencilla y eficiente tanto para el público universitario como para la comunidad externa.
 
 El sistema se apoyará en programación orientada a objetos y permitirá exportar resultados en archivos planos (CSV) para mantener registros de manera ordenada.
+---
+### Integrantes:
+*  Sofia Vallejo Martinez
+> Soy estudiante de Ingeniería Industrial en la Universidad de Antioquia, tengo 19 años y me caracterizo por ser una persona empática, comprometida y responsable. Me gusta asumir retos y aprender cosas nuevas, y siempre busco dar lo mejor de mí en todo lo que hago. Tengo habilidades de liderazgo y disfruto trabajar en equipo, aportando ideas y ayudando a que las cosas salgan bien.
+*  Maria José Molina López 
+*  Daniel Santiago Martínez Daza 
 
 ---
 
@@ -64,3 +70,16 @@ El sistema se apoyará en programación orientada a objetos y permitirá exporta
 4. **Pruebas:** Validación de cada funcionalidad del sistema.
 5. **Documentación:** Elaboración de manual de usuario y guías de instalación.
 6. **Entrega:** Publicación en GitHub con repositorio organizado.
+
+---
+## Presupuesto del Proyecto
+
+* **Equipo:** 3 estudiantes
+* **Tiempo total invertido:** 50 horas
+* **Referencia:** 1 Salario Mínimo Legal Vigente (SMLV) = 1.300.000 COP (aprox.)
+* **Horas de práctica estándar:** 240 horas / mes
+* **Valor hora práctica:** 1.300.000 / 240 = **5.417 COP/hora**
+
+### Cálculo:
+
+* 50 horas * 5.417 COP/hora = **270.850 COP**
