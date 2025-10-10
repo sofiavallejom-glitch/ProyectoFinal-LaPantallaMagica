@@ -19,7 +19,7 @@ Entre mis habilidades destaco mi capacidad de liderazgo, la buena comunicación,
 
 <a href="https://github.com/sofiavallejom-glitch/ProyectoFinal-LaPantallaMagica/edit/main/README.md ">Pantalla Magica</a> © 2025 by <a href="sofiavallejom-glitch">Sofia Vallejo</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
-<img height="120px" src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2025/06/todos-juegos-legend-zelda-peor-mejor-orden-recomendado-jugar-toda-saga-4339372.jpg?tf=3840x">
+<img height="120px" src="53fc4108-c6d0-435d-8cba-f194bdda4d88.png">
 
 ## Objetivos del Software
 
