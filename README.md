@@ -8,8 +8,11 @@ El sistema se apoyará en programación orientada a objetos y permitirá exporta
 ### Integrantes:
 *  Sofia Vallejo Martinez
 > Soy estudiante de Ingeniería Industrial en la Universidad de Antioquia, tengo 19 años y me caracterizo por ser una persona empática, comprometida y responsable. Me gusta asumir retos y aprender cosas nuevas, y siempre busco dar lo mejor de mí en todo lo que hago. Tengo habilidades de liderazgo y disfruto trabajar en equipo, aportando ideas y ayudando a que las cosas salgan bien.
-*  Maria José Molina López 
-*  Daniel Santiago Martínez Daza 
+*  Maria José Molina López
+*  
+*  Daniel Santiago Martínez Daza
+> Soy estudiante de Ingeniería Industrial en la Universidad de Antioquia. Tengo 18 años y me considero una persona responsable, respetuosa, amable y siempre dispuesta a servir a los demás y a colaborar en lo que sea necesario. Me gusta aprender constantemente y, por medio del diálogo, establecer vínculos con mis compañeros para trabajar juntos hacia un mismo objetivo y buscar siempre lo mejor para todos.
+Entre mis habilidades destaco mi capacidad de liderazgo, la buena comunicación, la disposición para colaborar y el compromiso de apoyar a los demás en todo momento.
 
 ---
 
