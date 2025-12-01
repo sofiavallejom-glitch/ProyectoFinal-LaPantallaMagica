@@ -8,7 +8,7 @@
 - Cancelar reservas.
 - Consultar las funciones disponibles.
 - Llevar un control administrativo (solo para personal autorizado).
-### Se maneja mediante un menú interactivo, donde cada número corresponde a una acción diferente.
+#####  Se maneja mediante un menú interactivo, donde cada número corresponde a una acción diferente.
 
 ## ¿Cómo está organizado el sistema?
 ### El sistema usa un menú principal con 6 opciones:
@@ -19,7 +19,7 @@
 5. Administrador
 6. Salir
 
-### Cada opción ejecuta un proceso distinto, explicado a continuación.
+#####  Cada opción ejecuta un proceso distinto, explicado a continuación.
 
 ## Opción 1 — Registrar Usuario
 Esta es la primera acción que debe realizar cualquier persona que quiera reservar un asiento.
